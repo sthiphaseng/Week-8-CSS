@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(172, 172, 172);
+    background-image: url('https://media.istockphoto.com/photos/classic-basketball-on-wooden-court-floor-close-up-with-blurred-arena-picture-id1224158985?k=20&m=1224158985&s=170667a&w=0&h=ZknOofIjLeNuTuG_ooNg6oKIEwvSCjUzkGAK02ee9as=');
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:rgb(184, 0, 0);
+    font-size: 40pt;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px red;
+}
+
+h4 {
+    font-size: 15pt;
+    text-shadow: 2px 2px red;
+}
+
+th {
+    border-style: solid;
+}
+
+td {
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #555;
+}
+
+table{
+    border-collapse: collapse;
+    width: 75%;
+}
+
+li {
+    font-size: 20pt;
+    text-shadow: 2px 2px red;
+}
+
+p {
+    font-size: 15pt;
+    text-shadow: 2px 2px red;
+}
+
+.stats {
+
+}
+
+.players {
+    text-align: center;
+}
+
+form {
+    font-size: 15pt;
+    text-shadow: 2px 2px red;
+}
+
+home {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.formq {
+    font-size: 15pt;
+    text-shadow: 2px 2px red;
+}
+
+a:hover {
+    background-color: red;
+}
+
+a:visited {
+    color: rgb(41, 0, 138);
+}
+
+a:active {
+    background-color: yellow;
+}
+a:link {
+    color: black;
+}
+
+a {
+    font-size: 15pt;
+    text-shadow: 2px 2px red;
+}
+
+img {
+    border: 5px solid #555;
+    border-radius: 5px;
+  }
